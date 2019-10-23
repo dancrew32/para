@@ -6,3 +6,6 @@ deps:
 
 test:
 	./venv/bin/python para_test.py
+
+lab:
+	./venv/bin/jupyter lab
